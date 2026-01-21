@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>928ce7e2-3d82-46ea-a390-cdcb68cf3d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/form/div[3]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mCtrl.typeFooter.typeMail > div.gLeft > button.btnCtrl.mail-send-button > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;보내기&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>07962bdc-fe75-4114-bdae-5dff8e9cc50c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>보내기</value>
+      <webElementGuid>c43295c9-9f69-4579-994a-7159a792cd80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/form[1]/div[@class=&quot;mCtrl typeFooter typeMail&quot;]/div[@class=&quot;gLeft&quot;]/button[@class=&quot;btnCtrl mail-send-button&quot;]/span[1]</value>
+      <webElementGuid>92939afa-e1e0-47f3-bdf9-a940e8115041</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/form/div[3]/div/button/span</value>
+      <webElementGuid>6c76bcad-a444-489a-9377-6a81eae8a5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 관리 바로가기'])[1]/following::span[1]</value>
+      <webElementGuid>2953f6cf-aab5-4af3-bce4-202757d9065a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명'])[1]/following::span[2]</value>
+      <webElementGuid>008a8ff2-672c-4bb0-ad12-c82df8d0166e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='새로쓰기'])[2]/preceding::span[1]</value>
+      <webElementGuid>9797d827-0a7a-468b-8961-dd4ac30677cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='미리보기'])[2]/preceding::span[2]</value>
+      <webElementGuid>5a8e1e85-19d3-4a11-a0d2-3bd65fa24397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>06683df2-a8af-45cc-80be-645d01c4d5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '보내기' or . = '보내기')]</value>
+      <webElementGuid>a6cea1d0-05f5-4f2e-8d5a-625e4b5db24c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
